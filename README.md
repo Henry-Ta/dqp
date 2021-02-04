@@ -1,2 +1,1 @@
-
-#[Offical Page](https://homecook-dqp.herokuapp.com/)
+[Offical Page](https://homecook-dqp.herokuapp.com/)
